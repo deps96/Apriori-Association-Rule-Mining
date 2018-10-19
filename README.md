@@ -30,16 +30,25 @@ Minimum Support = 3
 Minimum Confidence = 0.65
 
 'Items present in the Database'
+
 ------> Samsung
 
 ------> Redmi
+
 ------> iPhone
+
 ------> Macbook
+
 ------> Watch
+
 ------> Nokia
+
 ------> Google
+
 ------> LG
+
 ------> Lenevo
+
 ------> HP
 
 TRANSACTION ITEMSET
