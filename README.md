@@ -1,6 +1,8 @@
 JAVA Implementation for APRIORI Algorithm
 ===
 
+* APRIORI / Market Basket Analysis / Product Recommendation Engine is a Data Mining Algorithm which helps in finding Frequent Item set and Association Rules which Satisfy the condition of Minimum Support and Confidence.
+
 APRIORI Algorithm is divided into 3 parts
 ===
 1. Defining Minimum Support and Minimum Confidence.
