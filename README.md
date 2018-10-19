@@ -90,10 +90,19 @@ Association Rules for Frequent Itemset
 ```
 FLOW OF EXECUTION
 ===
-**Main Function**
+***Main Function()***
 ```
 Defining Minimum Support/Minimum Confidence. Parse the DataSet File and storing each Transaction in List
 ```
-``` 
-***firstFrequentItemSet***
+***firstFrequentItemSet()***
+```
+Checks each transactions and Stores unique items in itemSet List and generates Frequent Itemset 1
+```
+***aprioriStart()***
+```
+calls 3 functions i.e. generateCombinations(), checkFrequentItems(), generateAssociationRules()
+```
+***generateCombinations()***
+```
+finds different item set i.e. combination of unique items.
 ```
