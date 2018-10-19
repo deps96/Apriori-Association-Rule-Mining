@@ -21,3 +21,28 @@ Samsung LG
 Samsung Lenevo
 ```
 Each line specifies a Transaction which is seperated by a space.
+
+OUTPUT
+===
+```
+No of Items = 5
+No of Transactions = 7
+Minimum Support = 2
+Minimum Confidence = 0.45
+
+'Items present in the Database'
+------> iPhone
+------> Samsung
+------> Lenevo
+------> Nokia
+------> LG
+
+TRANSACTION       ITEMSET
+Transaction 1 = iPhone Samsung Lenevo
+Transaction 2 = Nokia iPhone Samsung LG Lenevo
+Transaction 3 = Nokia Samsung
+Transaction 4 = iPhone Samsung Nokia
+Transaction 5 = Lenevo
+Transaction 6 = Samsung LG
+Transaction 7 = Samsung Lenevo
+```
