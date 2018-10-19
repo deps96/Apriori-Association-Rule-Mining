@@ -31,6 +31,7 @@ Minimum Confidence = 0.65
 
 'Items present in the Database'
 ------> Samsung
+
 ------> Redmi
 ------> iPhone
 ------> Macbook
