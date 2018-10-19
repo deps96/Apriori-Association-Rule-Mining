@@ -1,4 +1,5 @@
 JAVA Implementation for APRIORI Algorithm
+===
 
 APRIORI / Market Basket Analysis / Product Recommendation Engine helps in finding Frequent Item set and Association Rules which Satisfy the condition of Minimum Support and Confidence.
 The Algorithm is divided into 3 parts
