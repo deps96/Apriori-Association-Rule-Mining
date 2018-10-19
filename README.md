@@ -10,7 +10,7 @@ APRIORI Algorithm is divided into 3 parts
 3. Generating Association Rules.
 
 DATASET
-====
+===
 ```
 iPhone Samsung Lenevo
 Nokia iPhone Samsung LG Lenevo
@@ -88,4 +88,12 @@ Association Rules for Frequent Itemset
 'iPhone Samsung ->  Nokia' = {Confidence = 0.6666666666666666 and Support = 2}
 'Nokia -> iPhone Samsung' = {Confidence = 0.6666666666666666 and Support = 2}
 ```
-
+FLOW OF EXECUTION
+===
+**Main Function**
+```
+Defining Minimum Support/Minimum Confidence. Parse the DataSet File and storing each Transaction in List
+```
+``` 
+***firstFrequentItemSet***
+```
