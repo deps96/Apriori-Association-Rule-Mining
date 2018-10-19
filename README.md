@@ -106,3 +106,11 @@ calls 3 functions i.e. generateCombinations(), checkFrequentItems(), generateAss
 ```
 finds different item set i.e. combination of unique items.
 ```
+***checkFrequentItems()***
+```
+calculates the support of item set generated and stores the item set along with its support in HashMap 'frequentItems'
+```
+***generateAssociationRules()***
+```
+Takes into consideration each String i.e. Item set from List finalFrequentItemSet and generates Association rules for the same
+```
