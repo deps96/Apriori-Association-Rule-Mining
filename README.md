@@ -90,6 +90,7 @@ Frequent Itemset 2 => Itemset = 'Samsung Macbook' => support = 6
 Frequent Itemset 2 => Itemset = 'Samsung Watch' => support = 4
 Frequent Itemset 2 => Itemset = 'Samsung Nokia' => support = 3
 Frequent Itemset 2 => Itemset = 'Redmi iPhone' => support = 4
+
 Frequent Itemset 2 => Itemset = 'Redmi Macbook' => support = 6
 Frequent Itemset 2 => Itemset = 'Redmi Watch' => support = 4
 Frequent Itemset 2 => Itemset = 'Redmi Nokia' => support = 3
