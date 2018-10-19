@@ -3,11 +3,19 @@ JAVA Implementation for APRIORI Algorithm
 
 APRIORI Algorithm is divided into 3 parts
 ===
-1. Defining Minimum Support and Minimum Confidence.
-2. Finding Frequent Itemset
+* Defining Minimum Support and Minimum Confidence.
+* Finding Frequent Itemset
+* Generating Association Rules.
 
-   * Find Frequent Items whose occurrence is more than Minimum Support specified.
-   
-   * Find Frequent Itemset i.e. Combination of Items from frequent items generated.
-3. Generating Association Rules.
-
+DATASET
+====
+```
+iPhone Samsung Lenevo
+Nokia iPhone Samsung LG Lenevo
+Nokia Samsung
+iPhone Samsung Nokia
+Lenevo
+Samsung LG
+Samsung Lenevo
+```
+Each line specifies a Transaction which is seperated by a space.
