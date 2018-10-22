@@ -13,7 +13,7 @@ APRIORI Algorithm is divided into 3 parts
 
 CALCULATIONS
 ===
-1. Support (A) = no of times A appears in transactional database / total no of transactions
+1. Support (A) = (no of times 'A' appears in transactional database) / (total no of transactions)
 2. Confidence (A->B) = Support (A U B) / Support (A)
 
 DATASET
