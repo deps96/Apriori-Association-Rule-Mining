@@ -11,6 +11,11 @@ APRIORI Algorithm is divided into 3 parts
    * Finding item set i.e. combinations of items from items generated from previous iterations
 3. Generating Association Rules.
 
+CALCULATIONS
+===
+1. Support (A) = no of times A appears in transactional database / total no of transactions
+2. Confidence (A->B) = Support (A U B) / Support (A)
+
 DATASET
 ===
 ```
