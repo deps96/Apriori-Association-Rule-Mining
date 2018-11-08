@@ -99,7 +99,6 @@ public class AprioriDataMining
 			displayTransactionNumber++;
 		}
 		firstFrequentItemSet(noOfTransactions,transactions,minimumSupport,minimumConfidence);
-		
 	}
 	
 	/* firstFrequentItemSet(noOfTransactions,transactions,minimumSupport,minimumConfidence);
